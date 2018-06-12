@@ -4,6 +4,7 @@
 /*Hola commit 2*/
 /*Víctor Manuel Santos Martínez*/
 /*Torrez hernandez jose antonio*/
+/*SOFIA ORTIZ*/
 	/*Ivan Silva Rodriguez*/
 
 using namespace std;
