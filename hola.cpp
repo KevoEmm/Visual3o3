@@ -7,6 +7,7 @@
 /*SOFIA ORTIZ*/
 /*ZARATE MENDOZA FERNANDO*/
 	/*Ivan Silva Rodriguez*/
+	/*VITE BIBIANA CESARITA*/
 
 using namespace std;
 
