@@ -1,6 +1,7 @@
 #include <iostream>
 
 
+/*Oscar Alexei Ramiero Mier*/
 /*Hola commit 2*/
 /*Víctor Manuel Santos Martínez*/
 /*Torrez hernandez jose antonio*/
