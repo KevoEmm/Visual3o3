@@ -5,6 +5,7 @@
 /*Víctor Manuel Santos Martínez*/
 /*Torrez hernandez jose antonio*/
 /*SOFIA ORTIZ*/
+/*ZARATE MENDOZA FERNANDO*/
 	/*Ivan Silva Rodriguez*/
 
 using namespace std;
