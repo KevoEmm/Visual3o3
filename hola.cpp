@@ -10,9 +10,16 @@
 /*VITE BIBIANO CESARITA*/
 /*Palacios Franco Mario*/
 /*Mario Sevilla Ponce*/
+<<<<<<< HEAD
+/*Leandro Sanchez Ostoa*/
+=======
 /**Soto Dimas*/
 //Sanchez Sanchez Isaac Alejandro
+<<<<<<< HEAD
 //Nelli Suarez Martinez
+=======
+>>>>>>> 7fc9c01c6dbae06a10a6b7ea9220201753b35738
+>>>>>>> bb49ac2b0326240e600044ed558f4e556107b8ed
 using namespace std;
 
 //Commit Rogelio Uriel Vergara Covarrubias
