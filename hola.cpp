@@ -8,6 +8,7 @@
 /*ZARATE MENDOZA FERNANDO*/
 	/*Ivan Silva Rodriguez*/
 	/*VITE BIBIANA CESARITA*/
+/*Palacios Franco Mario*/
 
 using namespace std;
 
