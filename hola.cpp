@@ -12,6 +12,7 @@
 /*Mario Sevilla Ponce*/
 /**Soto Dimas*/
 //Sanchez Sanchez Isaac Alejandro
+//Nelli Suarez Martinez
 using namespace std;
 
 //Commit Rogelio Uriel Vergara Covarrubias
