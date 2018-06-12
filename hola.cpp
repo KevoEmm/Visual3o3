@@ -10,6 +10,7 @@
 /*VITE BIBIANO CESARITA*/
 /*Palacios Franco Mario*/
 /*Mario Sevilla Ponce*/
+/*Leandro Sanchez Ostoa*/
 using namespace std;
 
 //Commit Rogelio Uriel Vergara Covarrubias
