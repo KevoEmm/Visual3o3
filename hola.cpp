@@ -11,6 +11,7 @@
 /*Palacios Franco Mario*/
 /*Mario Sevilla Ponce*/
 /**Soto Dimas*/
+//Sanchez Sanchez Isaac Alejandro
 using namespace std;
 
 //Commit Rogelio Uriel Vergara Covarrubias
