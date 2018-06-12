@@ -1,9 +1,9 @@
 #include <iostream>
 
-
+/*Yaquelin Oropeza Camargo*/
 /*Oscar Alexei Ramiero Mier*/
 /*Hola commit 2*/
-/*Víctor Manuel Santos Martínez*/
+/*VÃ­ctor Manuel Santos MartÃ­nez*/
 /*Torrez hernandez jose antonio*/
 /*SOFIA ORTIZ*/
 /*ZARATE MENDOZA FERNANDO*/
