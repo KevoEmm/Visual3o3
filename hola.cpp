@@ -10,6 +10,7 @@
 /*VITE BIBIANO CESARITA*/
 /*Palacios Franco Mario*/
 /*Mario Sevilla Ponce*/
+/**Soto Dimas*/
 using namespace std;
 
 //Commit Rogelio Uriel Vergara Covarrubias
