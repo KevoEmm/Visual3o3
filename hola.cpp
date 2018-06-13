@@ -18,6 +18,7 @@
 //Sanchez Sanchez Isaac Alejandro
 <<<<<<< HEAD
 //Nelli Suarez Martinez
+// Rivera Cabrera Demetrio Oliver
 =======
 >>>>>>> 7fc9c01c6dbae06a10a6b7ea9220201753b35738
 >>>>>>> bb49ac2b0326240e600044ed558f4e556107b8ed
